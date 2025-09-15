@@ -2,6 +2,8 @@ package demo01;
 
 public class helloWorl {
 	public static void main(String[] args) {
-		System.out.println("Hello");
+		String name = "Har";
+		System.out.println("Hello" + name);
+		
 	}
 }	
